@@ -1,4 +1,4 @@
-require 'bike'
+require 'bike.rb'
 
 describe Bike do
   it 'will respond to the method.working?' do
